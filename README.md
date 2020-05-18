@@ -1,25 +1,17 @@
 <br />
-<img src="https://swap.tech/images/airswap-high-res.png" width="500"/>
+<img src="https://.png" width="500"/>
 <br />
 
-[AirSwap](https://www.airswap.io/) is a peer-to-peer trading network for Ethereum tokens, initially built on the [Swap Protocol](https://swap.tech/whitepaper/). The AirSwap product family includes [Explorer](https://explorer.airswap.io/), [DexIndex](https://dexindex.io/), [AirSwap Instant](https://instant.airswap.io/), and [AirSwap Trader](https://trader.airswap.io/). This repository contains smart contracts and JavaScript packages for use by developers and traders on the AirSwap network.
+SkySwap is a peer-to-peer trading network for Ethereum tokens, initially built on the [Swap Protocol](https://swap.tech/whitepaper/). The SkySwap product family includes [Explorer], [DexIndex](https://dexindex.io/), [SkySwap Instant], and [SkySwap Trader]. This repository contains smart contracts and JavaScript packages for use by developers and traders on the AirSwap network.
 
-[![Discord](https://img.shields.io/discord/590643190281928738.svg)](https://chat.airswap.io)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 [![CircleCI](https://circleci.com/gh/airswap/airswap-protocols.svg?style=svg&circle-token=73bd6668f836ce4306dbf6ca32109ddbb5b7e1fe)](https://circleci.com/gh/airswap/airswap-protocols)
-![Twitter Follow](https://img.shields.io/twitter/follow/airswap?style=social)
-
-## Resources
-
-- Docs → https://docs.airswap.io/
-- Website → https://www.airswap.io/
-- Blog → https://blog.airswap.io/
-- Support → https://support.airswap.io/
 
 ## Smart Contracts
 
 Packages are versioned based on deploys. Major versions e.g. `1.x.x` are mainnet deploys, while minor versions e.g. `x.1.x` are rinkeby deploys. Packages that are not deployed increment patch versions e.g. `x.x.1`. Each package that includes a deployment includes the ABI files for that deployed contract in `builds/contracts` within the package.
+
+REWRITE ME TO CHANGE ME FROM AIRSWAP TO SKYSWAP BELOW THIS POINT:
+--------======================================------------------------
 
 | Package                                   | Version                                                                                                     | Description                         |
 | :---------------------------------------- | :---------------------------------------------------------------------------------------------------------- | :---------------------------------- |
